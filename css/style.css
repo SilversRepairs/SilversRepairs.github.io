@@ -294,6 +294,10 @@ body{
     line-height: 96px;
     border-radius: 50px;
   }
+  .item span.icon img {
+    width: 7rem;
+    height: auto;
+  } 
   .item .feature_box_col_one{
     background:rgba(247,198,5,0.2);
     color:#52ab98;
