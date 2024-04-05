@@ -110,7 +110,7 @@ body{
 
 .header .logo img{
     width: 130%;
-    height: 3rem;
+    height: 7rem;
     top: 0;
     left: 0;
 }
@@ -342,7 +342,7 @@ body{
 
 .counters .container {
 	display: grid;
-	grid-template-columns: repeat(4, 1fr);
+	grid-template-columns: repeat(3, 1fr);
 	grid-gap: 30px;
 	text-align: center;
 }
@@ -422,6 +422,7 @@ body{
     height:90px;
     line-height: 96px;
     border-radius: 50px;
+    padding: 10px 30px;
   }
   .item .feature_box_col_one{
     background:rgba(247,198,5,0.2);
